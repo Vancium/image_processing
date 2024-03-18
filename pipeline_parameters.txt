@@ -1,0 +1,5 @@
+<Full path to images>
+<Full path to Fiji>
+<Name of cell line>
+save_outlines OR no
+<aspect ratio threshold>
