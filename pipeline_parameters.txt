@@ -1,5 +1,5 @@
-<Full path to images>
-<Full path to Fiji>
-<Name of cell line>
-save_outlines OR no
-<aspect ratio threshold>
+C:\Users\vance\dev\img_proccess\photos
+C:\Users\vance\dev\img_proccess\ANDA\fiji
+E15_GABA
+yes
+1
